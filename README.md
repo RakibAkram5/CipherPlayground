@@ -1,5 +1,5 @@
 
-# 🔐 Cipher Lab
+# 🔐 Cipher Playground
 
 Welcome to **Cipher Lab** – a repository dedicated to learning and implementing different **cryptographic cipher algorithms**.
 
